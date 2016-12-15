@@ -3,6 +3,7 @@
 
     <string name="app_name">LeakCanaryDemo</string>
     <string name="hello_world">Hello world!</string>
-    <string name="go_to_test">Go To Test</string>
+    <string name="go_to_test_instance">Go To Test Instance</string>
+    <string name="go_to_test_runnable">Go To Test Runnable</string>
 
 </resources>

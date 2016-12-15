@@ -4,7 +4,7 @@
     tools:context=".MainActivity">
     <item
         android:id="@+id/action_go_to_test"
-        android:title="@string/go_to_test"
+        android:title="@string/go_to_test_instance"
         android:orderInCategory="100"
         app:showAsAction="never" />
 </menu>
