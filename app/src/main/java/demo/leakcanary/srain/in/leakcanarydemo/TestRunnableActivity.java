@@ -28,6 +28,7 @@ public class TestRunnableActivity extends Activity {
 
     /**
      * task任务
+     * 
      */
     private class Task implements Runnable {
         @Override
