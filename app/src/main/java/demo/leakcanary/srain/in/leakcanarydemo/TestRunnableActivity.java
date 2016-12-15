@@ -26,6 +26,9 @@ public class TestRunnableActivity extends Activity {
         super.onDestroy();
     }
 
+    /**
+     * task任务
+     */
     private class Task implements Runnable {
         @Override
         public void run() {
