@@ -17,7 +17,7 @@ public class TestInstanceActivity extends ActionBarActivity {
         setContentView(R.layout.activity_test);
 
         // TestDataModel.getInstance().setRetainedTextView(textView);
-        mPonkan = PonkanController.getInstance(this);
+        mPonkan = Ponkan.getInstance(this);
     }
 
     @Override

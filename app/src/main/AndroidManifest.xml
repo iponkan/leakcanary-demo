@@ -20,6 +20,7 @@
 
         <activity android:name=".TestInstanceActivity" />
         <activity android:name=".TestRunnableActivity" />
+        <activity android:name=".TestActivity" />
     </application>
 
 </manifest>
